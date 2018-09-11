@@ -1,0 +1,4 @@
+build
+.idea
+web-ext-artifacts
+**/l10n.js
